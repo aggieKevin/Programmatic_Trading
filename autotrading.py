@@ -22,7 +22,7 @@ if __name__=="__main__":
 
     #import getpass
     #psd = getpass.getpass('Enter your password')
-    log=r.authentication.login('hejiakoo@gmail.com','hejia3382076@R')
+    log=r.authentication.login('account','psd')
     stockTrade=StockTrade('TQQQ',2000,0.1,104,30,model=model_1,realtrade=False)
     df=yf.download('TQQQ',start=date(2020,7,2), end=date(2020,9,11))
     current_list=convert_df_to_list(df)
