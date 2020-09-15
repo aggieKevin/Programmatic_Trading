@@ -1,0 +1,280 @@
+2020-09-15 14:49:00,682,682 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,684,684 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,685,685 simulation_trading INFO buy 20 shares, amount 2000.0 at 100
+2020-09-15 14:49:00,686,686 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,688,688 simulation_trading INFO sell 16 shares, amount 1800.0 at 111.11
+2020-09-15 14:49:00,689,689 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,690,690 simulation_trading INFO before trade, current shares: 30
+2020-09-15 14:49:00,692,692 simulation_trading INFO now price 175.47999572753906, sold 16 shares at 111.11 worth 1800.0
+2020-09-15 14:49:00,693,693 simulation_trading INFO after trade, current shares: 14
+2020-09-15 14:49:00,694,694 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,695,695 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,697,697 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,698,698 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,699,699 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,700,700 simulation_trading INFO {'price': 123.46, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,702,702 simulation_trading INFO {'price': 111.11, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,703,703 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,704,704 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,705,705 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,706,706 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,707,707 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,709,709 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,710,710 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,711,711 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,712,712 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,713,713 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,715,715 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,716,716 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,717,717 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,718,718 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,719,719 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,720,720 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,722,722 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,723,723 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,724,724 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,725,725 simulation_trading INFO buy 20 shares, amount 2000.0 at 100
+2020-09-15 14:49:00,726,726 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,727,727 simulation_trading WARNING -------------
+2020-09-15 14:49:00,729,729 simulation_trading WARNING current share is 14, not enough shares in hand available for sale
+2020-09-15 14:49:00,729,729 simulation_trading WARNING buy 22 shares at 175.47999572753906 before open the sell order
+2020-09-15 14:49:00,731,731 simulation_trading WARNING -------------
+2020-09-15 14:49:00,732,732 simulation_trading INFO sell 15 shares, amount 1800.0 at 123.46
+2020-09-15 14:49:00,733,733 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,734,734 simulation_trading INFO before trade, current shares: 36
+2020-09-15 14:49:00,735,735 simulation_trading INFO now price 175.6699981689453, sold 15 shares at 123.46 worth 1800.0
+2020-09-15 14:49:00,737,737 simulation_trading INFO after trade, current shares: 21
+2020-09-15 14:49:00,738,738 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,739,739 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,740,740 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,741,741 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,742,742 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,744,744 simulation_trading INFO {'price': 123.46, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,745,745 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,745,745 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,746,746 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,747,747 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,748,748 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,749,749 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,752,752 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,753,753 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,754,754 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,756,756 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,757,757 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,758,758 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,760,760 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,761,761 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,763,763 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,764,764 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,766,766 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,767,767 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,768,768 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,769,769 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,771,771 simulation_trading INFO buy 18 shares, amount 2000 at 111.11
+2020-09-15 14:49:00,772,772 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,774,774 simulation_trading INFO sell 13 shares, amount 1800.0 at 137.17
+2020-09-15 14:49:00,775,775 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,776,776 simulation_trading INFO before trade, current shares: 21
+2020-09-15 14:49:00,777,777 simulation_trading INFO now price 164.6699981689453, sold 13 shares at 137.17 worth 1800.0
+2020-09-15 14:49:00,778,778 simulation_trading INFO after trade, current shares: 8
+2020-09-15 14:49:00,779,779 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,780,780 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,781,781 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,786,786 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,788,788 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,789,789 simulation_trading INFO {'price': 123.46, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,791,791 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,792,792 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,793,793 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,794,794 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,795,795 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,796,796 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,798,798 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,799,799 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,800,800 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,804,804 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,805,805 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,807,807 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,808,808 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,809,809 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,810,810 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,811,811 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,812,812 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,814,814 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,817,817 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,818,818 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,820,820 simulation_trading INFO buy 16 shares, amount 2000 at 123.46
+2020-09-15 14:49:00,821,821 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,822,822 simulation_trading WARNING -------------
+2020-09-15 14:49:00,823,823 simulation_trading WARNING current share is 8, not enough shares in hand available for sale
+2020-09-15 14:49:00,824,824 simulation_trading WARNING buy 24 shares at 164.6699981689453 before open the sell order
+2020-09-15 14:49:00,826,826 simulation_trading WARNING -------------
+2020-09-15 14:49:00,827,827 simulation_trading INFO sell 12 shares, amount 1800.0 at 152.42
+2020-09-15 14:49:00,828,828 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,829,829 simulation_trading INFO before trade, current shares: 32
+2020-09-15 14:49:00,833,833 simulation_trading INFO now price 174.52999877929688, sold 12 shares at 152.42 worth 1800.0
+2020-09-15 14:49:00,834,834 simulation_trading INFO after trade, current shares: 20
+2020-09-15 14:49:00,835,835 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,836,836 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,837,837 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,838,838 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,839,839 simulation_trading INFO {'price': 137.17, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,843,843 simulation_trading INFO {'price': 123.46, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,844,844 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,845,845 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,846,846 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,847,847 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,848,848 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,850,850 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,851,851 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,852,852 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,853,853 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,854,854 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,855,855 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,856,856 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,857,857 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,863,863 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,864,864 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,865,865 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,867,867 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,868,868 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,870,870 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,872,872 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,873,873 simulation_trading INFO buy 15 shares, amount 2000 at 137.17
+2020-09-15 14:49:00,874,874 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,875,875 simulation_trading INFO sell 11 shares, amount 1800.0 at 169.35
+2020-09-15 14:49:00,877,877 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,880,880 simulation_trading INFO before trade, current shares: 20
+2020-09-15 14:49:00,881,881 simulation_trading INFO now price 123.86000061035156, bought 15 shares at 137.17 worth 2000
+2020-09-15 14:49:00,882,882 simulation_trading INFO money required 5748.279862060546
+2020-09-15 14:49:00,882,882 simulation_trading INFO after trade, current shares: 35
+2020-09-15 14:49:00,883,883 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,884,884 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,885,885 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,886,886 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,887,887 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,888,888 simulation_trading INFO {'price': 123.46, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,889,889 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,890,890 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,893,893 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,895,895 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,896,896 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,897,897 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,898,898 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,899,899 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,901,901 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,902,902 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,903,903 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,905,905 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,906,906 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,907,907 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,909,909 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,910,910 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,911,911 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,912,912 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,913,913 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,915,915 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,916,916 simulation_trading INFO buy 16 shares, amount 2000 at 123.46
+2020-09-15 14:49:00,917,917 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,918,918 simulation_trading INFO sell 12 shares, amount 1800.0 at 152.42
+2020-09-15 14:49:00,920,920 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,922,922 simulation_trading INFO before trade, current shares: 35
+2020-09-15 14:49:00,923,923 simulation_trading INFO now price 121.05999755859375, bought 16 shares at 123.46 worth 2000
+2020-09-15 14:49:00,924,924 simulation_trading INFO money required 7723.639862060547
+2020-09-15 14:49:00,926,926 simulation_trading INFO after trade, current shares: 51
+2020-09-15 14:49:00,927,927 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,928,928 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,929,929 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,930,930 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,932,932 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,933,933 simulation_trading INFO {'price': 123.46, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,935,935 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,936,936 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,937,937 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,938,938 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,939,939 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,941,941 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,942,942 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,943,943 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,944,944 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,946,946 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,947,947 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,948,948 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,950,950 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,951,951 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,952,952 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:00,953,953 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:00,955,955 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:00,956,956 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:00,957,957 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:00,958,958 simulation_trading INFO buy setting: 
+2020-09-15 14:49:00,960,960 simulation_trading INFO buy 18 shares, amount 2000 at 111.11
+2020-09-15 14:49:00,961,961 simulation_trading INFO sell setting: 
+2020-09-15 14:49:00,962,962 simulation_trading INFO sell 13 shares, amount 1800.0 at 137.17
+2020-09-15 14:49:00,964,964 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:00,966,966 simulation_trading INFO before trade, current shares: 51
+2020-09-15 14:49:00,967,967 simulation_trading INFO now price 138.38999938964844, sold 13 shares at 137.17 worth 1800.0
+2020-09-15 14:49:00,969,969 simulation_trading INFO after trade, current shares: 38
+2020-09-15 14:49:00,970,970 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,971,971 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,973,973 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,974,974 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,975,975 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,976,976 simulation_trading INFO {'price': 123.46, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,978,978 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,979,979 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:00,980,980 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:00,982,982 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:00,983,983 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:00,984,984 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:00,985,985 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:00,986,986 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:00,987,987 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:00,988,988 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:00,990,990 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:00,993,993 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:00,995,995 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:00,997,997 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:00,998,998 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:01,000,0 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:01,001,1 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:01,003,3 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:01,004,4 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:01,005,5 simulation_trading INFO buy setting: 
+2020-09-15 14:49:01,007,7 simulation_trading INFO buy 16 shares, amount 2000 at 123.46
+2020-09-15 14:49:01,009,9 simulation_trading INFO sell setting: 
+2020-09-15 14:49:01,010,10 simulation_trading INFO sell 12 shares, amount 1800.0 at 152.42
+2020-09-15 14:49:01,011,11 simulation_trading INFO ---------execute order--------
+2020-09-15 14:49:01,012,12 simulation_trading INFO before trade, current shares: 38
+2020-09-15 14:49:01,013,13 simulation_trading INFO now price 121.73999786376953, bought 16 shares at 123.46 worth 2000
+2020-09-15 14:49:01,016,16 simulation_trading INFO money required 7915.789862060548
+2020-09-15 14:49:01,018,18 simulation_trading INFO after trade, current shares: 54
+2020-09-15 14:49:01,019,19 simulation_trading INFO {'price': 209.08, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,020,20 simulation_trading INFO {'price': 188.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,021,21 simulation_trading INFO {'price': 169.35, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,022,22 simulation_trading INFO {'price': 152.42, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,023,23 simulation_trading INFO {'price': 137.17, 'buy': False, 'buy_amount': 2000, 'sell': True, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,024,24 simulation_trading INFO {'price': 123.46, 'buy': False, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,025,25 simulation_trading INFO {'price': 111.11, 'buy': True, 'buy_amount': 2000, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,026,26 simulation_trading INFO {'price': 100, 'buy': True, 'buy_amount': 2000.0, 'sell': False, 'sell_amount': 1800.0}
+2020-09-15 14:49:01,027,27 simulation_trading INFO {'price': 90.0, 'buy': True, 'buy_amount': 2200.0, 'sell': False, 'sell_amount': 1920.0}
+2020-09-15 14:49:01,029,29 simulation_trading INFO {'price': 81.0, 'buy': True, 'buy_amount': 2380.0, 'sell': False, 'sell_amount': 2020.0}
+2020-09-15 14:49:01,030,30 simulation_trading INFO {'price': 72.9, 'buy': True, 'buy_amount': 2540.0, 'sell': False, 'sell_amount': 2120.0}
+2020-09-15 14:49:01,033,33 simulation_trading INFO {'price': 65.61, 'buy': True, 'buy_amount': 2680.0, 'sell': False, 'sell_amount': 2220.0}
+2020-09-15 14:49:01,034,34 simulation_trading INFO {'price': 59.05, 'buy': True, 'buy_amount': 2820.0, 'sell': False, 'sell_amount': 2300.0}
+2020-09-15 14:49:01,035,35 simulation_trading INFO {'price': 53.14, 'buy': True, 'buy_amount': 2940.0, 'sell': False, 'sell_amount': 2360.0}
+2020-09-15 14:49:01,036,36 simulation_trading INFO {'price': 47.83, 'buy': True, 'buy_amount': 3040.0, 'sell': False, 'sell_amount': 2420.0}
+2020-09-15 14:49:01,037,37 simulation_trading INFO {'price': 43.05, 'buy': True, 'buy_amount': 3140.0, 'sell': False, 'sell_amount': 2480.0}
+2020-09-15 14:49:01,038,38 simulation_trading INFO {'price': 38.74, 'buy': True, 'buy_amount': 3220.0, 'sell': False, 'sell_amount': 2540.0}
+2020-09-15 14:49:01,039,39 simulation_trading INFO {'price': 34.87, 'buy': True, 'buy_amount': 3300.0, 'sell': False, 'sell_amount': 2580.0}
+2020-09-15 14:49:01,040,40 simulation_trading INFO {'price': 31.38, 'buy': True, 'buy_amount': 3380.0, 'sell': False, 'sell_amount': 2620.0}
+2020-09-15 14:49:01,041,41 simulation_trading INFO {'price': 28.24, 'buy': True, 'buy_amount': 3440.0, 'sell': False, 'sell_amount': 2660.0}
+2020-09-15 14:49:01,043,43 simulation_trading INFO {'price': 25.42, 'buy': True, 'buy_amount': 3500.0, 'sell': False, 'sell_amount': 2700.0}
+2020-09-15 14:49:01,044,44 simulation_trading INFO {'price': 22.88, 'buy': True, 'buy_amount': 3540.0, 'sell': False, 'sell_amount': 2720.0}
+2020-09-15 14:49:01,046,46 simulation_trading INFO {'price': 20.59, 'buy': True, 'buy_amount': 3580.0, 'sell': False, 'sell_amount': 2760.0}
+2020-09-15 14:49:01,047,47 simulation_trading INFO {'price': 18.53, 'buy': True, 'buy_amount': 3620.0, 'sell': False, 'sell_amount': 2780.0}
+2020-09-15 14:49:01,048,48 simulation_trading INFO ---------set up open orders-----------
+2020-09-15 14:49:01,049,49 simulation_trading INFO buy setting: 
+2020-09-15 14:49:01,050,50 simulation_trading INFO buy 18 shares, amount 2000 at 111.11
+2020-09-15 14:49:01,051,51 simulation_trading INFO sell setting: 
+2020-09-15 14:49:01,052,52 simulation_trading INFO sell 13 shares, amount 1800.0 at 137.17
